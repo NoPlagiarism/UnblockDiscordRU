@@ -1,5 +1,11 @@
 # Возвращаем Discord в строй через прокси
 
+
+---
+> [!CAUTION]
+> Голосовые каналы могут не работать, так как [воис требует UDP](https://discord.com/developers/docs/topics/voice-connections). Для воисов лучше использовать **TUN**neling mode
+>
+> Подробнее: [1](https://github.com/MatsuriDayo/nekoray/issues/1444) [2](https://github.com/hiddify/hiddify-next/issues/1396)
 ---
 > Используется проект [discord-proxy](https://github.com/aiqinxuancai/discord-proxy) от китайских друзей
 ---
